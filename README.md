@@ -4,7 +4,7 @@ A vanilla Parcel web app for fast learning and prototyping. This repo contains t
 
 
 ## Local Development
-Install dependencies with `npm i` , then use `npm start` to run the local development server or `npm build` to make a production build. 
+Install dependencies with `npm i` , then use `npm start` to run the local development server or `npm build` to make a production build. Use a Chrome Incognito window or Firefox/Safari to avoid HMR issues locally.
 
 
 ## Deployment
